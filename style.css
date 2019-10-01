@@ -1,0 +1,278 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 120em;
+    clear: both;
+    margin: auto;
+
+}
+
+body {
+    font-family: acumin, sans-serif;
+}
+
+.content {
+    padding: 5em;
+}
+
+h3 {
+    font-weight: 700;
+    color: black;
+}
+
+.header {
+    height: 6.25em;
+    width: 100%;
+    border-style: none none solid none;
+    border-width: 0.3125em;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    z-index: 100;
+}
+
+.topmenu {
+    float: right;
+    line-height: 6.25em;
+}
+
+.topmenu a {
+    color: black;
+    margin-right: 5em;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.5em;
+    width: 100%;
+}
+
+.title {
+    text-transform: uppercase;
+    float: left;
+    clear: both;
+    width: 62.5em;
+}
+
+h1
+
+/*Beyonce*/
+    {
+    font-size: 12.5em;
+    font-family: acumin-pro, sans-serif;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+h2
+
+/*Knowles Carter*/
+    {
+    font-size: 6.10em;
+    margin-top: 0;
+}
+
+.b-contentright {
+    float: right;
+    clear: both;
+    margin-bottom: 5em;
+    width: 47%;
+    border-top-style: solid;
+    border-top-width: 0.3125em;
+    border-color: white;
+    padding-left: 10em;
+
+}
+
+.b-contentleft {
+    float: left;
+    clear: both;
+    width: 47%;
+    margin-bottom: 5em;
+    border-top-style: solid;
+    border-top-width: 0.3125em;
+    border-color: white;
+
+}
+
+.line-contentright {
+    float: right;
+    clear: both;
+    margin-bottom: 5em;
+    width: 47%;
+    border-top-style: solid;
+    border-top-width: 0.3125em;
+    padding-left: 10em;
+
+}
+
+.line-contentleft {
+    float: left;
+    clear: both;
+    width: 47%;
+    margin-bottom: 5em;
+    border-top-style: solid;
+    border-top-width: 0.3125em;
+
+}
+
+.contentright {
+    float: right;
+    clear: both;
+    margin-bottom: 5em;
+    width: 57%;
+    padding-left: 10em;
+
+
+
+
+}
+
+.contentleft {
+    float: left;
+    clear: both;
+    width: 47%;
+    margin-bottom: 5em;
+
+}
+
+.black {
+    width: 28em;
+    font-size: 1em;
+    line-height: 1.5em;
+    display: inline-block;
+
+}
+
+.white {
+    color: white;
+    width: 28em;
+    font-size: 1em;
+    line-height: 1.5em;
+    display: inline-block;
+
+
+}
+
+.bgblack {
+    background-color: black;
+    overflow: hidden;
+    clear: both;
+    margin: 5em -5em 5em -5em;
+    padding: 5em 5em 0 5em;
+}
+
+.albumssold {
+    color: white;
+    font-weight: 700;
+    float: right;
+
+}
+
+
+h4
+
+/*title white*/
+    {
+    font-size: 2.1875em;
+    font-weight: bold;
+    color: white;
+}
+
+.seventyfour {
+    font-size: 37.5em;
+    line-height: 0.9em;
+}
+
+.million {
+    font-size: 12.5em;
+    line-height: 0.15em;
+
+}
+
+.albums {
+    font-size: 3.625em;
+    line-height: 4em;
+}
+
+
+
+#white {
+    color: white;
+}
+
+.year {
+    font-weight: 700;
+    font-size: 7em;
+    transform: rotate(270deg);
+    float: inherit;
+    margin: 0.9em -0.3em 0em -0.3em;
+
+    /* background-color: deeppink;*/
+
+
+}
+
+.vertical-line {
+    position: absolute;
+    background-color: black;
+    width: 0.3125em;
+    top: 186.6em;
+    bottom: 00em;
+    left: 50%;
+    height: 263.35em;
+}
+
+.vertical-line-white {
+    position: absolute;
+    background-color: white;
+    width: 0.3125em;
+    top: 114em;
+    bottom: 00em;
+    left: 50%;
+    height: 73.5em;
+}
+
+/*.solocareer {
+    border-style: solid;
+    border-width: 0.3125em 0.3125em 0 0;
+
+
+}*/
+
+h3
+
+/*title black*/
+    {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+.humanitarian {
+
+    background-color: black;
+    width: 100%;
+    height: 1814px;
+    padding: 160px;
+}
+
+h5
+
+/*quote*/
+    {
+    font-size: 4em;
+    color: white;
+    margin-top: 0;
+}
+
+.praise {
+
+    padding: 0 5em 0 5em;
+
+}
+
+.who {
+    text-transform: uppercase;
+    float: right;
+}
